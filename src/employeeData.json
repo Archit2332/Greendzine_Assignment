@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Arjun",
+      "dob": "1990-05-15",
+      "role": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Mahesh",
+      "dob": "1988-09-23",
+      "role": "UX/UI Designer"
+    },
+    {
+      "id": 3,
+      "name": "Amit Sharma",
+      "dob": "1992-03-07",
+      "role": "Data Analyst"
+    },
+    {
+      "id": 4,
+      "name": "Deepika Singh",
+      "dob": "1995-11-12",
+      "role": "Project Manager"
+    },
+    {
+      "id": 5,
+      "name": "Aditya Reddy",
+      "dob": "1985-07-30",
+      "role": "System Administrator"
+    },
+    {
+      "id": 6,
+      "name": "Anjali Bose",
+      "dob": "1993-01-20",
+      "role": "Network Engineer"
+    },
+    {
+      "id": 7,
+      "name": "Vikram Joshi",
+      "dob": "1989-12-05",
+      "role": "Quality Assurance Analyst"
+    },
+    {
+      "id": 8,
+      "name": "Kavita Gupta",
+      "dob": "1991-06-18",
+      "role": "Database Administrator"
+    },
+    {
+      "id": 9,
+      "name": "Nitin Desai",
+      "dob": "1994-04-02",
+      "role": "Cybersecurity Specialist"
+    },
+    {
+      "id": 10,
+      "name": "Divya Mishra",
+      "dob": "1987-08-09",
+      "role": "IT Support Technician"
+    }
+  ]
+}
